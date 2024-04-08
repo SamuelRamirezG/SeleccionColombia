@@ -1,0 +1,28 @@
+
+
+h1{
+    font-style: inherit;
+    color:darkblue;
+    text-align: center;
+}
+
+h2{
+    font-style: inherit;
+    color:darkorange;
+}
+
+body{
+    background-color: floralwhite;
+}
+
+table{
+    text-align: center;
+    font-style: inherit;
+    list-style:upper-alpha ;
+    color:mediumblue;
+}
+
+card{
+    align-items: center;
+}
+
